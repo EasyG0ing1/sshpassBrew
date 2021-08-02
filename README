@@ -1,6 +1,4 @@
-﻿
-
-#sshpass Homebrew install script
+##sshpass Homebrew install script
 
 To install sshpass version 1.09 using homebrew, simply type:
 
